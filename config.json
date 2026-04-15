@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "playlists": [
+    {
+      "name": "Minha Lista Ricardo",
+      "url": "https://raw.githubusercontent.com/RicardoDark/iptv01/refs/heads/main/minhalista.m3u",
+      "type": "m3u"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "playlists": [
     {
       "name": "Minha Lista Ricardo",
-      "url": "https://raw.githubusercontent.com/RicardoDark/iptv01/refs/heads/main/minhalista.m3u",
+      "url": "http://vexio.sbs",
       "type": "m3u"
     }
   ]
